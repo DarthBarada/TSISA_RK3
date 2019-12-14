@@ -74,7 +74,6 @@ void GeneticAlgorithm::reduction()
 			{
 				parents.erase(parents.begin());	
 			}
-		std::cout<<"";
 	}
 
 void GeneticAlgorithm::mutation()
